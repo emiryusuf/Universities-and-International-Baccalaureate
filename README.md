@@ -6,12 +6,12 @@ Please note that, for now, these are my individual effort which is being hoped t
 *NB = Need-blind                            
 NBS= Need-based*
 
-|University |    IB Score    | Country/City  | Language Required |     Fee      |
-|---|---|---|---|---|
-|    MIT     | Not specified  | USA/Cambridge |      English     | $47,593 (NB) |
-|  Harvard   | Not specified  | USA/Cambridge |      English     | $72,450 (NB) |
+|University |    IB Score    | Country/City  | Language Required |     Fee      | Application | Scholarship |
+|---|---|---|---|---|---|---|
+|    MIT     | Not specified  | USA/Cambridge |      English     | $47,593 (NB) | Need-blind  | Only Need-blind |
+|  Harvard   | Not specified  | USA/Cambridge |      English     | $72,450 (NB) | Need-blind  | Only Need-blind |
 |    Yale    |  |  |  |  |
-| ETH Zurich |  |  |  |  |
+| ETH Zurich |  | Zurich/Switzerland | German C1  |  | Need-blind | Varying |
 |  |  |  |  |  |
 |  |  |  |  |  |
 |  |  |  |  |  |
